@@ -5,7 +5,10 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #0a69ed;
+    background-image: url('./images/hog.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
   }
   .start-screen,
   .score-container {

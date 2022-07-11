@@ -19,21 +19,33 @@ let countdown;
 const quizArray = [
   {
     id: "0",
-    question: "Which is the most widely spoken language in the world?",
-    options: ["Spanish", "Mandarin", "English", "German"],
-    correct: "Mandarin",
+    question: "Who is the mother of Harry Potter?",
+    options: ["Lily", "Luna", "Molly", "Poppy"],
+    correct: "Lily",
   },
   {
     id: "1",
-    question: "Which is the only continent in the world without a desert?",
-    options: ["North America", "Asia", "Africa", "Europe"],
-    correct: "Europe",
+    question: "What is the pet name of Harry Potter?",
+    options: ["scabber", "Fang", "Hedwig", "Nagini"],
+    correct: "Hedwig",
   },
   {
     id: "2",
-    question: "Who invented Computer?",
-    options: ["Charles Babbage", "Henry Luce", "Henry Babbage", "Charles Luce"],
-    correct: "Charles Babbage",
+    question: "Who is the head of gryffindor?",
+    options: ["Minerva", "Severous", "Filius", "Pomona"],
+    correct: "Minerva",
+  },
+  {
+    id: "3",
+    question: "Who is the brother of ginny?",
+    options: ["Harry", "Malfoy", "Ron", "Sprout"],
+    correct: "Ron",
+  },
+  {
+    id: "4",
+    question: "Name of the plant which scream?",
+    options: ["Mandrake", "Tentacula", "Gillyweed", "Willow"],
+    correct: "Mandrake",
   },
 ];
 
